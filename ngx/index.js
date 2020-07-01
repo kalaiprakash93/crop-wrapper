@@ -10,7 +10,7 @@ var Crop = /** @class */ (function (_super) {
     Crop.pluginName = "Crop";
     Crop.plugin = "cordova-plugin-crop";
     Crop.pluginRef = "plugins";
-    Crop.repo = "https://github.com/jeduan/cordova-plugin-crop";
+    Crop.repo = "https://github.com/kalaiprakash93/cordova-plugin-crop";
     Crop.platforms = ["Android", "iOS"];
     Crop = __decorate([
         Injectable()
