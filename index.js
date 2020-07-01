@@ -21,7 +21,7 @@ var CropOriginal = /** @class */ (function (_super) {
     CropOriginal.pluginName = "Crop";
     CropOriginal.plugin = "cordova-plugin-crop";
     CropOriginal.pluginRef = "plugins";
-    CropOriginal.repo = "https://github.com/jeduan/cordova-plugin-crop";
+    CropOriginal.repo = "https://github.com/kalaiprakash93/cordova-plugin-crop";
     CropOriginal.platforms = ["Android", "iOS"];
     return CropOriginal;
 }(IonicNativePlugin));
